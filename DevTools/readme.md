@@ -1,0 +1,1 @@
+Short pdf that highlights new features of Chrome DevTools.  I did not find it that useful, except the Workspaces section, which talks about how to work on your source files directly in the browser, and have those changes persist to disk.
