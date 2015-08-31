@@ -1,0 +1,1 @@
+Textbook for class - have not read the whole thing yet, what I have read was very dry. Noticed a few good explanations, like for prototypal inheritance and the various loops.
